@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="172791385_1634185530100826_5001043764840110897_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\172791385_1634185530100826_5001043764840110897_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimizar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngegg (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngegg (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-multiplicar-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-multiplicar-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DDDD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DDDD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1904666-calculate-close-delete-hide-minimize-minus-remove_122516" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1904666-calculate-close-delete-hide-minimize-minus-remove_122516.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wwew" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wwew.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Autumn Photography 4k Wallpapers _ hdqwalls_com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Autumn Photography 4k Wallpapers _ hdqwalls_com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aeaa11c809037b199836a38fc0c7d5ad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aeaa11c809037b199836a38fc0c7d5ad.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IMÁGENES  PARA TUS PORTADAS_ (Completo) - 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IMÁGENES  PARA TUS PORTADAS_ (Completo) - 13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-computer-icons-x-mark-desktop-wallpaper-black-and-5af2f932f0d114.2555089015258729469864" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-computer-icons-x-mark-desktop-wallpaper-black-and-5af2f932f0d114.2555089015258729469864.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngegg (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngegg (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wewewr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wewewr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Military robot, S Yang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Military robot, S Yang.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="srwr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\srwr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_remove_delete_icon_148989" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close_remove_delete_icon_148989.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hot Toys _ Guardians of the Galaxy Vol_ 2 - Groot Cosbaby Bobble-Head" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hot Toys _ Guardians of the Galaxy Vol_ 2 - Groot Cosbaby Bobble-Head.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Short circuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Short circuit.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WWRR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WWRR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pines_ Màs De 500 Fondos De Pantalla De Celular Que Te" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pines_ Màs De 500 Fondos De Pantalla De Celular Que Te.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Los Mejores 20 Fondos de Pantalla de Hackers_ los mejores diseños" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Los Mejores 20 Fondos de Pantalla de Hackers_ los mejores diseños.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wrw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wrw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pelargos Shop _ Redbubble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pelargos Shop _ Redbubble.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Psyk323 on Twitter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Psyk323 on Twitter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="More Of My Robots Enjoying The Quiet Wonder Of The World" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\More Of My Robots Enjoying The Quiet Wonder Of The World.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Los Mejores 20 Fondos de Pantalla de Hackers_ los mejores diseños (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Los Mejores 20 Fondos de Pantalla de Hackers_ los mejores diseños (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wrwtrti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wrwtrti.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Attractions" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Attractions.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uiopp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uiopp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngegg (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngegg (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10670025_794027217313996_1362795722050855946_n (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10670025_794027217313996_1362795722050855946_n (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Good Dinosaur (2015) Phone Wallpaper _ Moviemania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The Good Dinosaur (2015) Phone Wallpaper _ Moviemania.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Samsung Galaxy S6 Edge Uyumlu Duvar Kağıtları" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Samsung Galaxy S6 Edge Uyumlu Duvar Kağıtları.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Handy Tips To Click The Flawless Photos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The Handy Tips To Click The Flawless Photos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngegg (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngegg (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="impresionante" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\impresionante.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="45+ Hình nền heo mập cute dễ thương cho điện thoại" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\45+ Hình nền heo mập cute dễ thương cho điện thoại.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="H5 Tech Fondo Azul" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\H5 Tech Fondo Azul.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rti.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Military robot, S Yang1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Military robot, S Yang1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
